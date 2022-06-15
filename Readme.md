@@ -1,5 +1,7 @@
 # Pancake重置
 
+![image](https://user-images.githubusercontent.com/56441863/173824503-54d8baac-9f13-4a02-96b9-31e86b736b8b.png)
+
 pancake的重制版。将功能改为模块加载，方便修改。
 
 为什么不试着做一个属于自己的PS呢？(笑)
